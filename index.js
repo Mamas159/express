@@ -2389,4 +2389,4 @@ client.on('message', function(message) {
 	}
 });
 })
-client.login("NDU1ODk0ODE2NzYxNTc3NDcz.D2pvww.lV7SegGkEXXTImXdWNydbZEKQ9w");
+client.login("NDU1ODk0ODE2NzYxNTc3NDcz.D2p4Aw.AE0v2j1hvLPHOMwd2ERAbP3CTGA");
